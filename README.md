@@ -6,10 +6,6 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=juliaabp&show_icons=true&count_private=true&hide_border=true&title_color=DB7093&icon_color=DB7093&text_color=c9d1d9&bg_color=0d1117" alt="Julia Borges github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaabp&layout=compact&hide_border=true&title_color=DB7093&text_color=DB7093&bg_color=0d1117" />
 </div>
-
-<div align="center"> 
-<a href="https://www.linkedin.com/in/juliaborgesp/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
  
 ## Main Skills
 <div style="display: inline_block"><br>
@@ -24,6 +20,13 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="40" width="50" src="https://www.svgrepo.com/show/303654/java-logo.svg">
   <img align="center" alt="Php" height="40" width="50" src="https://www.svgrepo.com/show/373966/php.svg">
+</div>
+
+## Contact
+<div>
+  <a href="https://www.linkedin.com/in/juliaborgesp/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+  <a href="mailto:juliaborgesp@outlook.com.br" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" style="border-radius: 30px" target="_blank"></a>
+  <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5535997778508" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" style="border-radius: 30px" target="_blank"></a>   
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DB7093&height=120&section=footer"/>
